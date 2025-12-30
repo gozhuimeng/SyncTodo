@@ -1,0 +1,14 @@
+ 
+
+# <type>(<scope>): message
+# 
+# type:
+#   feat: 新功能
+#   fix: 修改
+#   docs: 相关文档
+#   test: 测试
+#   chore: 杂项
+#   revert: 回滚提交
+# 
+# scope:
+# ui / api / db / config / auth / ...
